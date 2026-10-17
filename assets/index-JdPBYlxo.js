@@ -64,7 +64,7 @@ How to use: Wait for the green signal and tap as fast as you can.`,textZh:`用�
 
 Когда и как применять: Включайте тренажер на каждой схватке (и тренируйтесь заранее с 36-й недели). Смотрите жене в глаза и дышите вслух вместе с ней по счетчику: 4 секунды глубокий вдох носом, 8 секунд медленный выдох через расслабленные губы трубочкой.`,textEn:`Why: Prevents hyperventilation and muscle spasm during painful contractions.
 How to use: Breathe out loud together with your wife: 4 seconds inhale through the nose, 8 seconds slow exhale through pursed lips.`,textZh:`用途：防止产妇在剧烈阵痛时屏气或缺氧痉挛。
-用法：每次宫缩来临时开启，看着妻子的眼睛带头同步呼吸：鼻子吸气4秒，嘴唇呈吹口哨状慢呼气8秒。`},traffic:{titleRu:`Светофор: Можно ли жене?`,titleEn:`Safety Light: Is It Safe?`,titleZh:`孕期红绿灯：孕妇能吃/做吗？`,textRu:`Зачем нужен: Быстрая мужская шпаргалка по частым бытовым вопросам: какие таблетки от изжоги безопасны, можно ли кофе, баню, суши или безалкогольное пиво.
+用法：每次宫缩来临时开启，看着妻子的眼睛带头同步呼吸：鼻子吸气4秒，嘴唇呈吹口哨状慢呼气8秒。`},traffic:{titleRu:`Светофор: Можно ли жене?`,titleEn:`Safety Light: Is It Safe?`,titleZh:`孕期红绿灯：能吃/能做吗？`,textRu:`Зачем нужен: Быстрая мужская шпаргалка по частым бытовым вопросам: какие таблетки от изжоги безопасны, можно ли кофе, баню, суши или безалкогольное пиво.
 
 Как использовать: Сверяйтесь со статусами (🟢 ОК, 🟡 Осторожно, 🔴 Табу) перед покупкой продуктов или походом в ресторан.`,textEn:`Why: Instant safety reference for common foods, medications, and activities during pregnancy.`,textZh:`用途：快速排查孕期常见食物、抗酸药物及日常活动的安全性。`},decoder:{titleRu:`Декодер фраз жены`,titleEn:`Mom's Phrase Decoder`,titleZh:`准妈妈情绪翻译器`,textRu:`Зачем нужен: Переводит эмоциональные и гормональные высказывания беременной жены на понятный мужской язык.
 
